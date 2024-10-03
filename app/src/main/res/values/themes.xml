@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasMembuatAplikasiAndroidPemula" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/header</item>
+        <item name="colorOnPrimary">@color/header</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+
+    <style name="TextContent">
+        <item name="android:textColor">@color/colorSubtitle</item>
+    </style>
+
+    <style name="TextContent.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextBold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="Theme.TugasMembuatAplikasiAndroidPemula" parent="Base.Theme.TugasMembuatAplikasiAndroidPemula" />
+</resources>

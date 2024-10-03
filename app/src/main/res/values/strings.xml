@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Anggota Volunteer</string>
+
+    <string name="friend_name">Nama Teman</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="aboutName">Haikal Iman Firdaus</string>
+    <string name="abouEmail">haikalimanf@gmail.com</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="divisi">Divisi</string>
+    <string name="instagram">Instagram</string>
+    <string name="motto">Motto</string>
+    <string name="kelas">Kelas</string>
+
+
+    <string-array name="data_name">
+        <item>Ilham</item>
+        <item>Dewa</item>
+        <item>Fajar</item>
+        <item>Fesal</item>
+        <item>Haikal</item>
+        <item>Cita</item>
+        <item>Indri</item>
+        <item>Irsyaad</item>
+        <item>Raka</item>
+        <item>Salsa</item>
+    </string-array>
+
+    <string-array name="data_person">
+        <item>Ilham Fauzan </item>
+        <item>I Dewa Nyoman Bayu Satria Wibawa</item>
+        <item>Muhammad Fajar Satria Pamungkas</item>
+        <item>Faisal Rizky</item>
+        <item>Haikal Iman Firdaus</item>
+        <item>Rucita</item>
+        <item>Indri Tri Puspita</item>
+        <item>Muhammad Irsyaad Fatahilah</item>
+        <item>Raka Putra Pratidina</item>
+        <item>Salsa Safitri Iklima</item>
+    </string-array>
+
+    <string-array name="data_person_class">
+        <item>IF-6 </item>
+        <item>IF-6</item>
+        <item>IF-8</item>
+        <item>IF-5</item>
+        <item>IF-6</item>
+        <item>IF-6</item>
+        <item>IF-7</item>
+        <item>IF-3</item>
+        <item>IF-6</item>
+        <item>IF-6</item>
+    </string-array>
+
+    <string-array name="data_person_divisi">
+        <item>P3K</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Logistik</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Pembimbing Kelompok</item>
+        <item>Pembimbing Kelompok</item>
+        <item>P3K</item>
+    </string-array>
+
+    <string-array name="data_person_motto">
+        <item>Menginspirasi dengan tindakan, memimpin dengan integritas.</item>
+        <item>Ketekunan adalah kunci untuk mencapai kesempurnaan.</item>
+        <item>Langkah kecil hari ini adalah lompatan besar untuk masa depan.</item>
+        <item>Ketulusan dan kerja keras akan selalu menemukan jalan.</item>
+        <item>Berpikir besar, bertindak bijak.</item>
+        <item>Keindahan ada pada jiwa yang berani bermimpi.</item>
+        <item>Keberhasilan dimulai dari ketekunan dan tekad kuat.</item>
+        <item>Kepemimpinan sejati tumbuh dari keberanian untuk melayani.</item>
+        <item>Dengan keberanian, kita tak akan pernah berhenti berinovasi.</item>
+        <item>Jadilah cahaya di setiap tempat yang kau pijak.</item>
+    </string-array>
+
+    <string-array name="data_person_instagram">
+        <item>\@ilhamfze</item>
+        <item>\@idewbayu</item>
+        <item>\@mfjrstrp_</item>
+        <item>\@fesalrizki</item>
+        <item>\@hakip_</item>
+        <item>\@tacita_</item>
+        <item>\@indriiitp</item>
+        <item>\@cadd__</item>
+        <item>\@rputra.p</item>
+        <item>\@salsasafitri61</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Ilham Fauzan adalah seorang mahasiswa dari Universitas Komputer Indonesia, dengan fokus studinya pada jurusan Teknik Informatika. Ia adalah individu yang bersemangat dan antusias untuk terlibat dalam berbagai kegiatan yang berhubungan dengan teknologi dan informatika. Ketika ia memutuskan untuk menjadi seorang relawan di acara Gamatif, sebuah gathering mahasiswa Teknik Informatika yang diadakan di kampus.Ilham telah menunjukkan dedikasinya yang luar biasa untuk mendukung kelancaran acara tersebut. Ia bekerja keras bersama dengan timnya untuk memastikan bahwa setiap aspek dari acara Gamatif berjalan dengan baik. Ilham diamanahkan menjadi P3K yang membantu orang sedang sakit diacara gamatif </item>
+        <item>I Dewa Nyoman Bayu adalah seorang mahasiswa yang berdedikasi dari Universitas Komputer Indonesia, dengan jurusan Teknik Informatika sebagai fokus utamanya. Ia adalah seorang individu yang penuh semangat dan antusiasme dalam dunia teknologi dan informatika. Salah satu pengalaman berharga dalam kehidupannya adalah ketika ia memilih untuk menjadi seorang relawan di acara Gamatif, sebuah gathering mahasiswa Teknik Informatika yang diadakan di kampus. Dewa telah menunjukkan komitmen dan semangat luar biasa untuk mendukung kesuksesan acara tersebut. Ia terlibat aktif dalam berbagai tahap persiapan acara, mulai dari perencanaan hingga pelaksanaan. Dewa diamanahkan menjadi seorang Pembimbing Kelompok 8 yang bernama Andromeda </item>
+        <item>Muhammad Fajar Satria adalah seorang mahasiswa yang berkuliah di Universitas Komputer Indonesia dengan spesialisasi dalam jurusan Teknik Informatika. Ia merupakan sosok yang sangat bersemangat dan antusias, terutama ketika terlibat dalam kegiatan sebagai relawan di acara Gamatif, sebuah acara yang sangat dinanti oleh mahasiswa Teknik Informatika di kampus tersebut.Sebagai seorang relawan Gamatif, Fajar telah menunjukkan komitmen dan dedikasinya yang luar biasa dalam membantu memastikan kelancaran dan suksesnya acara tersebut. Ia memiliki kemampuan organisasi yang kuat dan mampu berkontribusi secara proaktif dalam perencanaan dan pelaksanaan acara tersebut. Fajar diamanahkan menjadi seorang Pembimbing Kelompok 10 yang bernama Pheonix </item>
+        <item>Faisal Rizki adalah seorang mahasiswa yang bersemangat dari Universitas Komputer Indonesia, dengan spesialisasi dalam jurusan Teknik Informatika. Saat ini, ia meraih pengalaman berharga sebagai seorang relawan yang terlibat aktif dalam acara Gamatif, sebuah gathering mahasiswa Teknik Informatika yang digelar di kampus. Sebagai seorang relawan, Fesal telah menunjukkan tingkat komitmen dan antusiasme yang sangat tinggi. Ia membantu memastikan kelancaran acara dengan berperan dalam berbagai aspek, mulai dari koordinasi hingga pendukung teknis. Kemampuan organisasinya yang cemerlang dan semangat kolaboratif menjadikannya elemen penting dalam tim relawan. Fesal diamanakan menjadi seorang pembimbing kelompok 4 yang bernama Centaurus </item>
+        <item>Haikal Iman Firdaus, seorang mahasiswa dari Universitas Komputer Indonesia, tengah mengejar gelar dalam jurusan Teknik Informatika. Saat ini, ia meraih pengalaman berharga sebagai seorang sukarelawan yang sangat terlibat dalam penyelenggaraan Gamatif, sebuah acara penting yang mengumpulkan mahasiswa Teknik Informatika di kampusnya. Sebagai seorang sukarelawan, Haikal menonjolkan diri dengan komitmen dan semangatnya yang tak tergoyahkan. Ia memainkan peran kunci dalam memastikan kelancaran acara dengan mengambil tanggung jawab menjadi pembimbing kelompok 3 yang bernama Carina. Kemampuan organisasinya yang cemerlang dan kemampuan kolaboratif yang tinggi menjadikan Haikal sebagai elemen kunci dalam tim relawan. </item>
+        <item>Cita adalah seorang mahasiswa yang ceria dari Universitas Komputer Indonesia, yang tengah mengejar gelar dalam jurusan Teknik Informatika. Ia telah memilih untuk mengambil peran tanggung jawab sebagai pengurus konsumsi dalam acara Gamatif, sebuah gathering mahasiswa Teknik Informatika yang sangat penting di kampusnya. Sebagai pengurus konsumsi, Cita memiliki peran yang krusial dalam memastikan ketersediaan dan penyelenggaraan makanan serta minuman untuk acara tersebut. Ia membuktikan dirinya sebagai individu yang penuh dedikasi dan perhatian terhadap detail. Dalam koordinasi dengan pihak lain, Cita bekerja keras untuk memastikan bahwa aspek konsumsi dalam Gamatif berjalan lancar, menciptakan pengalaman yang tak terlupakan bagi para peserta. </item>
+        <item>Indri Tri Puspita adalah seorang mahasiswa dari Universitas Komputer Indonesia yang mengambil jurusan Teknik Informatika. Ia saat ini aktif sebagai seorang sukarelawan dalam acara Gamatif, sebuah gathering penting bagi mahasiswa Teknik Informatika di kampusnya. Indri memiliki peran tanggung jawab yang signifikan, yaitu sebagai pembimbing kelompok 6 yang diberi nama Draco dalam acara tersebut. Sebagai pembimbing kelompok, Indri memainkan peran penting dalam memastikan bahwa anggota kelompoknya, Draco, memiliki pengalaman yang bermanfaat dan berkesan dalam acara Gamatif. Ia adalah sumber panduan, inspirasi, dan dukungan bagi anggota kelompoknya, membantu mereka berpartisipasi secara aktif dan sukses dalam seluruh aspek acara. </item>
+        <item>Muhammad Irsyaad Fatahilah adalah seorang mahasiswa yang sedang mengejar gelar di Universitas Komputer Indonesia, dengan jurusan Teknik Informatika sebagai bidang pilihannya. Saat ini, ia memilih untuk berperan sebagai seorang relawan dalam penyelenggaraan acara Gamatif, sebuah gathering yang sangat penting bagi mahasiswa Teknik Informatika di kampusnya. Peran Irsyaad sangat krusial, karena ia bertanggung jawab sebagai pembimbing kelompok 7 yang dikenal dengan nama Pegasus dalam konteks acara tersebut. Sebagai seorang pembimbing kelompok, Irsyaad memainkan peran yang sangat penting dalam memastikan bahwa anggota kelompoknya, Pegasus, mendapatkan pengalaman yang bermanfaat dan berkesan selama Gamatif berlangsung. </item>
+        <item>Raka Putra Pratidina adalah seorang mahasiswa dari Universitas Komputer Indonesia yang sedang mengejar gelar dalam jurusan Teknik Informatika. Saat ini, ia memilih untuk aktif sebagai seorang relawan dalam acara Gamatif, sebuah gathering penting yang membawa bersama mahasiswa Teknik Informatika di kampusnya. Raka memiliki peran yang istimewa sebagai pembimbing kelompok 6 yang diberi nama Draco dalam acara tersebut, dan ia berbagi tanggung jawab bersama Indri, menjadi partner dalam memandu kelompok tersebut. Dalam perannya sebagai pembimbing kelompok, Raka berperan dalam memastikan bahwa kelompoknya, Draco, mendapatkan pengalaman yang berharga dan tak terlupakan selama Gamatif. </item>
+        <item>Salsa Safitri adalah seorang mahasiswa yang berbakat dari Universitas Komputer Indonesia, yang tengah mengejar gelar dalam jurusan Teknik Informatika. Saat ini, ia dengan penuh semangat berperan sebagai seorang sukarelawan dalam acara Gamatif, sebuah gathering yang sangat penting bagi mahasiswa Teknik Informatika di kampusnya. Peran utama Salsa adalah sebagai penyedia pertolongan pertama (P3K), mirip dengan peran yang diemban oleh Ilham dalam acara tersebut. Sebagai penyedia pertolongan pertama, Salsa memiliki tanggung jawab besar dalam memastikan keselamatan dan kesejahteraan peserta acara. Ia memastikan bahwa peralatan P3K tersedia dan siap digunakan dalam situasi darurat, serta memberikan pertolongan pertama jika dibutuhkan. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ilham</item>
+        <item>@drawable/dewa</item>
+        <item>@drawable/fajar</item>
+        <item>@drawable/fesal</item>
+        <item>@drawable/haikal</item>
+        <item>@drawable/cita</item>
+        <item>@drawable/indri</item>
+        <item>@drawable/irsyaad</item>
+        <item>@drawable/raka</item>
+        <item>@drawable/salsa</item>
+    </integer-array>
+</resources>

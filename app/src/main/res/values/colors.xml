@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header">#362FD9</color>
+    <color name="colorSubtitle">#3085C3</color>
+    <color name="colorGradient">#3085C3</color>
+    <color name="blue_sea">#0288D1</color>
+</resources>
